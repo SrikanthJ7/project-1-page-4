@@ -1,0 +1,66 @@
+.heading{
+    display: inline-block;
+    margin-top: 12px;
+}
+
+.image{
+    margin-left: 75px;
+}
+
+.Alcheringa{
+    margin-left: 20px;
+    font-size: xx-large;
+    font-family: Comic Sans MS;
+    color: #a6a5a5;
+}
+
+.Connect {
+    font-size: xx-large;
+    font-family: Comic Sans MS;
+    margin-left: 15px;
+    color: orange;
+}
+
+.h1{
+    margin-top: 50px;
+    margin-left: 75px;
+    font-family: Comic Sans MS;
+    display: inline-block;
+}
+
+.goback{
+    height: 40px;
+    width: 250px;
+    margin-left: 600px;
+    background-color: white;
+    color: black;
+    font-family: Comic Sans MS;
+    transition: box-shadow 0.15ms;
+    transition: opacity 0.15ms;
+}
+
+.goback:hover{
+    box-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.goback:active{
+    opacity: 0.7;
+}
+
+.posts{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 75px;
+    margin-right: 45px;
+}
+
+.likes{
+    margin-top: 0px;
+
+}
+
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8{
+    border: 1.5px solid lightgray;
+    margin-right: 20px;
+    box-shadow: 1.5px 1.5px 1.5px black;
+}
